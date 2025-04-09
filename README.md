@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Siddanth!
 
 🎓 I'm learning Data Analysis, turning data into meaningful insights.  
+
 💼 Actively looking for oppurtunities in Data domain 
 
 🌱 Learning: Python for data analysis and engineering 
