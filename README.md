@@ -15,7 +15,9 @@
 📧 Mail me @ siddanthgoregottu@gmail.com
 
 ### 🔧 Tech Stack
-- Python | Pandas | SQL | MySql
-- Git & GitHub 
+- Python | SQL | MySql | Pandas | Numpy | Matplotlib | Seaborn
+- 
+- Git & GitHub | Jupyter Notebook | Tableau | PowerBI
+- 
 - Learning: Data Science, Machine learning
 -->
