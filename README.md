@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Siddanth!
 
-<!--
-**Siddanthg/Siddanthg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm learning Data Analysis, turning data into meaningful insights.  
+💼 Actively looking for oppurtunities in Data domain  
+🌱 Learning: Python for data analysis and engineering 
+📫 Reach me: [LinkedIn](https://linkedin.com/in/siddanthgoregottu
+😄 Pronouns: HE/HIM
+⚡ Fun fact: Please pronounce my name as Siddanth not Siddharth
 
-Here are some ideas to get you started:
+📧 Mail me @ siddanthgoregottu@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🔧 Tech Stack
+- Python | Pandas | SQL | MySql
+- Git & GitHub 
+- Learning: Data Science, Machine learning
 -->
