@@ -16,8 +16,6 @@
 
 ### 🔧 Tech Stack
 - Python | SQL | MySql | Pandas | Numpy | Matplotlib | Seaborn
-- 
 - Git & GitHub | Jupyter Notebook | Tableau | PowerBI
-- 
 - Learning: Data Science, Machine learning
 -->
