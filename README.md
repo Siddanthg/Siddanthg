@@ -9,6 +9,7 @@
 📫 Reach me: [LinkedIn](https://linkedin.com/in/siddanthgoregottu
 
 😄 Pronouns: HE/HIM
+
 ⚡ Fun fact: Please pronounce my name as Siddanth not Siddharth
 
 📧 Mail me @ siddanthgoregottu@gmail.com
