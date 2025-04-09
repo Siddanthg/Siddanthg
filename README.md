@@ -6,7 +6,7 @@
 
 🌱 Learning: Python for data analysis and EDA (Exploratory Data Analysis) 
 
-📫 Reach me: [LinkedIn](https://linkedin.com/in/siddanthgoregottu
+📫 Reach me: [LinkedIn](https://linkedin.com/in/siddanthgoregottu)
 
 😄 Pronouns: HE/HIM
 
