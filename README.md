@@ -4,7 +4,7 @@
 
 💼 Actively looking for oppurtunities in Data domain 
 
-🌱 Learning: Python for data analysis and engineering 
+🌱 Learning: Python for data analysis and EDA (Exploratory Data Analysis) 
 
 📫 Reach me: [LinkedIn](https://linkedin.com/in/siddanthgoregottu
 
